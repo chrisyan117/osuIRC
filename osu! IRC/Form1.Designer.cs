@@ -52,12 +52,12 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.richTextBoxMessage.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(33)))), ((int)(((byte)(33)))));
-            this.richTextBoxMessage.Font = new System.Drawing.Font("Microsoft YaHei UI", 11F);
+            this.richTextBoxMessage.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F);
             this.richTextBoxMessage.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
             this.richTextBoxMessage.Location = new System.Drawing.Point(12, 31);
             this.richTextBoxMessage.Name = "richTextBoxMessage";
             this.richTextBoxMessage.ReadOnly = true;
-            this.richTextBoxMessage.Size = new System.Drawing.Size(592, 293);
+            this.richTextBoxMessage.Size = new System.Drawing.Size(826, 293);
             this.richTextBoxMessage.TabIndex = 3;
             this.richTextBoxMessage.TabStop = false;
             this.richTextBoxMessage.Text = "";
@@ -72,7 +72,7 @@
             this.textBoxMessage.ForeColor = System.Drawing.Color.White;
             this.textBoxMessage.Location = new System.Drawing.Point(132, 335);
             this.textBoxMessage.Name = "textBoxMessage";
-            this.textBoxMessage.Size = new System.Drawing.Size(528, 28);
+            this.textBoxMessage.Size = new System.Drawing.Size(762, 28);
             this.textBoxMessage.TabIndex = 5;
             this.textBoxMessage.Visible = false;
             this.textBoxMessage.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
@@ -99,7 +99,7 @@
             this.listBoxTargetList.ForeColor = System.Drawing.Color.White;
             this.listBoxTargetList.FormattingEnabled = true;
             this.listBoxTargetList.ItemHeight = 16;
-            this.listBoxTargetList.Location = new System.Drawing.Point(610, 48);
+            this.listBoxTargetList.Location = new System.Drawing.Point(844, 48);
             this.listBoxTargetList.Name = "listBoxTargetList";
             this.listBoxTargetList.Size = new System.Drawing.Size(108, 276);
             this.listBoxTargetList.TabIndex = 7;
@@ -111,7 +111,7 @@
             // 
             this.buttonLogin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonLogin.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.buttonLogin.Location = new System.Drawing.Point(530, 260);
+            this.buttonLogin.Location = new System.Drawing.Point(764, 277);
             this.buttonLogin.Name = "buttonLogin";
             this.buttonLogin.Size = new System.Drawing.Size(61, 28);
             this.buttonLogin.TabIndex = 2;
@@ -124,7 +124,7 @@
             this.textBoxIRCPassword.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.textBoxIRCPassword.BackColor = System.Drawing.Color.White;
             this.textBoxIRCPassword.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F);
-            this.textBoxIRCPassword.Location = new System.Drawing.Point(464, 230);
+            this.textBoxIRCPassword.Location = new System.Drawing.Point(698, 247);
             this.textBoxIRCPassword.Name = "textBoxIRCPassword";
             this.textBoxIRCPassword.PasswordChar = '●';
             this.textBoxIRCPassword.Size = new System.Drawing.Size(127, 24);
@@ -137,7 +137,7 @@
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(33)))), ((int)(((byte)(33)))));
             this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(352, 233);
+            this.label2.Location = new System.Drawing.Point(586, 250);
             this.label2.Name = "label2";
             this.label2.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.label2.Size = new System.Drawing.Size(106, 21);
@@ -149,7 +149,7 @@
             // 
             this.buttonSendMessage.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonSendMessage.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.buttonSendMessage.Location = new System.Drawing.Point(666, 335);
+            this.buttonSendMessage.Location = new System.Drawing.Point(900, 335);
             this.buttonSendMessage.Name = "buttonSendMessage";
             this.buttonSendMessage.Size = new System.Drawing.Size(52, 28);
             this.buttonSendMessage.TabIndex = 6;
@@ -172,7 +172,7 @@
             this.checkBoxRememberPassword.CheckAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.checkBoxRememberPassword.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.checkBoxRememberPassword.ForeColor = System.Drawing.Color.White;
-            this.checkBoxRememberPassword.Location = new System.Drawing.Point(356, 263);
+            this.checkBoxRememberPassword.Location = new System.Drawing.Point(590, 280);
             this.checkBoxRememberPassword.Name = "checkBoxRememberPassword";
             this.checkBoxRememberPassword.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.checkBoxRememberPassword.Size = new System.Drawing.Size(168, 24);
@@ -187,7 +187,7 @@
             this.labelPing.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.labelPing.AutoSize = true;
             this.labelPing.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.labelPing.Location = new System.Drawing.Point(613, 27);
+            this.labelPing.Location = new System.Drawing.Point(847, 27);
             this.labelPing.Name = "labelPing";
             this.labelPing.Size = new System.Drawing.Size(0, 20);
             this.labelPing.TabIndex = 9;
@@ -199,7 +199,7 @@
             this.languageToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(730, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(964, 24);
             this.menuStrip1.TabIndex = 10;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -220,7 +220,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(160)))), ((int)(((byte)(160)))), ((int)(((byte)(160)))));
-            this.ClientSize = new System.Drawing.Size(730, 375);
+            this.ClientSize = new System.Drawing.Size(964, 375);
             this.Controls.Add(this.labelPing);
             this.Controls.Add(this.checkBoxRememberPassword);
             this.Controls.Add(this.buttonSendMessage);
@@ -235,7 +235,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.MinimumSize = new System.Drawing.Size(390, 350);
             this.Name = "Form1";
-            this.Text = " osu! IRC Beta v1.0.12";
+            this.Text = " osu! IRC Beta v1.0.13";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);

@@ -218,6 +218,7 @@ namespace osu__IRC
                 item.Click += delegate
                 {
                     Properties.Settings.Default.Language = Languages.languages[item.Text];
+                    Properties.Settings.Default.Save();
                     InitializeNewLanguage();
                 };
             }
@@ -235,6 +236,7 @@ namespace osu__IRC
 
             if (buttonLogin.Visible)
             {
+                richTextBoxMessage.SelectionFont = richTextBoxMessage.Font;
                 richTextBoxMessage.Text = Languages.GetString(Properties.Settings.Default.Language, "Message_Welcome") + Environment.NewLine;
             }
         }
