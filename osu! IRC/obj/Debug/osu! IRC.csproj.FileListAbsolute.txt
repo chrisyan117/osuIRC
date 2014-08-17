@@ -12,3 +12,4 @@ C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IR
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.application
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.exe
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.pdb
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.csprojResolveAssemblyReference.cache

@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="osu! IRC.exe" size="140800">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="osu! IRC.exe" size="145408">
       <assemblyIdentity name="osu! IRC" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2EL9b7j5qYy/A3aaYjJF1f5CM1FOX60YwuQRtiX865I=</dsig:DigestValue>
+        <dsig:DigestValue>wSaYv020zDJ1LfXB0opbBfl3YOaj2M7wKOimYSDCGXE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
