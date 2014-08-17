@@ -1,14 +1,14 @@
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.csprojResolveAssemblyReference.cache
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu__IRC.Properties.Resources.resources
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.csproj.GenerateResource.Cache
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\bin\Debug\osu! IRC.exe
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\bin\Debug\osu! IRC.pdb
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.exe
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.pdb
-C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu__IRC.Form1.resources
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\bin\Debug\osu! IRC.exe.config
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\bin\Debug\osu! IRC.exe.manifest
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\bin\Debug\osu! IRC.application
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\bin\Debug\osu! IRC.exe
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\bin\Debug\osu! IRC.pdb
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu__IRC.Form1.resources
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu__IRC.Properties.Resources.resources
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu__IRC.Resources.Resource.resources
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.csproj.GenerateResource.Cache
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.TrustInfo.xml
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.exe.manifest
 C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.application
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.exe
+C:\Users\Chris\Dropbox\Develop\Visual Studio\osu! IRC\osu! IRC\obj\Debug\osu! IRC.pdb
