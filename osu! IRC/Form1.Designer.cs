@@ -72,7 +72,7 @@
             this.textBoxMessage.ForeColor = System.Drawing.Color.White;
             this.textBoxMessage.Location = new System.Drawing.Point(132, 335);
             this.textBoxMessage.Name = "textBoxMessage";
-            this.textBoxMessage.Size = new System.Drawing.Size(762, 28);
+            this.textBoxMessage.Size = new System.Drawing.Size(706, 28);
             this.textBoxMessage.TabIndex = 5;
             this.textBoxMessage.Visible = false;
             this.textBoxMessage.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
@@ -150,9 +150,9 @@
             // 
             this.buttonSendMessage.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonSendMessage.Font = new System.Drawing.Font("Microsoft YaHei UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.buttonSendMessage.Location = new System.Drawing.Point(900, 335);
+            this.buttonSendMessage.Location = new System.Drawing.Point(844, 335);
             this.buttonSendMessage.Name = "buttonSendMessage";
-            this.buttonSendMessage.Size = new System.Drawing.Size(52, 28);
+            this.buttonSendMessage.Size = new System.Drawing.Size(108, 28);
             this.buttonSendMessage.TabIndex = 6;
             this.buttonSendMessage.TabStop = false;
             this.buttonSendMessage.Text = "Send";
@@ -236,7 +236,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.MinimumSize = new System.Drawing.Size(390, 350);
             this.Name = "Form1";
-            this.Text = " osu! IRC Beta v1.0.13a";
+            this.Text = " osu! IRC Beta v1.0.13b";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
